@@ -1,0 +1,32 @@
+{
+  "name": "hexo-renderer-sass-next",
+  "version": "0.1.2",
+  "description": "Add Sass support for Hexo",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "keywords": [
+    "hexo-renderer-sass-next",
+    "hexo-renderer",
+    "sass",
+    "dart sass",
+    "scss"
+  ],
+  "author": "lxchapu",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.49.9"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxchapu/hexo-renderer-sass-next.git"
+  }
+}
